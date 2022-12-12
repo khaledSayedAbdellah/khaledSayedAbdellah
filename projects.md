@@ -1,7 +1,7 @@
 
 # Main Pro
 
-![Logo](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw =x100)
+![Logo](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw =400*100)
 
 <img src="[http://....jpg](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw)" width = "400" height="200" />
 

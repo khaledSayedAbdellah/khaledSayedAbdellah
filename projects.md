@@ -29,9 +29,10 @@
   <summary>Main Pro Partner</summary>
   # Main Pro Partner
 
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
-
 You can join us regardless of the type of maintenance that you provide maintenance and repair of all cars from mechanics, plumbing, paint, oil change, tires and batteries repair, etc., services at the level of the Kingdom of Saudi Arabia.
+
+ <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
+
 
 <div id="badges">
   <a href= "https://play.google.com/store/apps/details?id=com.musllah.musullahservice">

@@ -27,7 +27,7 @@ We serve you in the maintenance sector in three areas
 # Main Pro Partner
 
 <div>
-<img src="https://lh3.googleusercontent.com/J7O37ylnhGvo6M70_TLuRPhmAqMxy62BcEGQk_Akk9u8nfUT8DUmzQgD0kZGr9AGWrwY" width="500" height="200"/>
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="400" height="300"/>
 </div>
 
 MainPro application is the first and best application that brings together all maintenance service providers under one roof.

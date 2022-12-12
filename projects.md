@@ -1,4 +1,4 @@
-<a href="#main_pro" >main pro</a>.
+<a href="#main_pro" > <span>main pro</span> </a>
 <a href="#main_pro_partner" >main pro partner</a>
 
 

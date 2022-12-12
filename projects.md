@@ -1,10 +1,9 @@
 
 # Main Pro
 
-![Logo](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw =400x100)
-
-<img src="[http://....jpg](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw)" width = "400" height="200" />
-
+<div>
+<img src="[attachment:image.png](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw)" width="500" height="100"/>
+</div>
 
 this is description sdfgl;nbvkfcdsz;l skds;kj flskdjzfgxvl;kjgf;lkjswe eksd fjdskzflkj lkjs ksjldkfj sdlkjf lksdjf lk;ldsaj zgfmvlkdj slkjdzkfljskd; jflkdjf lskdj flksdjf lsdkjf lskj zflksdjlf j.
 ### Features

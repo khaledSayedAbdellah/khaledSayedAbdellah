@@ -1,4 +1,4 @@
 
 ****Main Pro****.	
 
- [andorid](https://vuejs.org) /t \t [ios](https://vuejs.org)
+ [andorid](https://vuejs.org)                    [ios](https://vuejs.org)

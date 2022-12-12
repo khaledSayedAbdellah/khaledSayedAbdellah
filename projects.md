@@ -1,7 +1,7 @@
 
 # Main Pro
 
-![Logo](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw))
+![Logo](https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw){ width: 200px; }
 
 this is description sdfgl;nbvkfcdsz;l skds;kj flskdjzfgxvl;kjgf;lkjswe eksd fjdskzflkj lkjs ksjldkfj sdlkjf lksdjf lk;ldsaj zgfmvlkdj slkjdzkfljskd; jflkdjf lskdj flksdjf lsdkjf lskj zflksdjlf j.
 ### Features

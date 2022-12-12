@@ -1,4 +1,3 @@
 # Khaled 
-
-- andorid : ffdfdfd 
-- andorid : ffdfdfd
+- [andorid](https://vuejs.org). 
+- [ios](https://vuejs.org). 

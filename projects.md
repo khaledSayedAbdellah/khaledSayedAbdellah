@@ -15,14 +15,14 @@ Main Pro
 ">
 
 <div>
-        <div class="title" style="
+        <div style="
     font-weight: bold;
     font-size: 18px;
 ">- Khaled</div>
  
    
 
-      <div class="content">
+      <div>
         <ul>
           <li style="
 ">andorid : ffdfdfd</li>
@@ -31,6 +31,11 @@ Main Pro
       </div>
     </div>
 
+        <div id="header" align="center">
+
+        <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div></div>
     <img src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" style="
     width: 80px;
     height: 80px;

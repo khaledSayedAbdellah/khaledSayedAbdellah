@@ -1,5 +1,6 @@
-<a href="#main_pro" > <div>main pro</div> </a>
-<a href="#main_pro_partner" >main pro partner</a>
+<div><a href="#main_pro" >main pro</a> </div>
+<div><a href="#main_pro_partner" >main pro partner</a> </div>
+
 
 
 

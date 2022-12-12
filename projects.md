@@ -2,7 +2,7 @@
 ### Main Pro
 
 <div id="badges">
-  <a ref = "https://mainpro.app/about">
+  <a href= "https://mainpro.app/about">
     <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   </a>
   <a>

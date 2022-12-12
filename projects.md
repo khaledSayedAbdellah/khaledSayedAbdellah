@@ -1,10 +1,3 @@
-Main Pro
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <div>
       <div
         style="
@@ -35,22 +28,3 @@ Main Pro
         </div>
       </div>
     </div>
-    </div>
-    
-    
-    <a href="https://github.com/kholid060/MkDown2" target="_blank">
-![Github](https://img.shields.io/github/stars/kholid060/MkDown2)
-</a>
-# MkDown
-
-MkDown is an online markdown editor built with [vueJs](https://vuejs.org). How to use MkDown Markdown Editor:
-
-- Type some markdown in left side
-- See the preview on right side
-- And Voilà
-
-## Feature
-
-- Import Markdown file from your pc
-- Import your HTML file and convert it to markdown
-- Export your document as a Markdown file, HTML or HTML styled file

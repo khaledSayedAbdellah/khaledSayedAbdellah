@@ -5,7 +5,8 @@
 <img src="https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw" width="500" height="100"/>
 </div>
 
-this is description sdfgl;nbvkfcdsz;l skds;kj flskdjzfgxvl;kjgf;lkjswe eksd fjdskzflkj lkjs ksjldkfj sdlkjf lksdjf lk;ldsaj zgfmvlkdj slkjdzkfljskd; jflkdjf lskdj flksdjf lsdkjf lskj zflksdjlf j.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, quam a vehicula accumsan, odio nisl pulvinar eros, a malesuada tortor nibh vitae turpis. Nullam dictum a nulla ut mattis. Sed at commodo est, quis faucibus leo. Fusce a risus nec mauris accumsan vestibulum.
+
 ### Features
 
 - Light/dark mode toggle

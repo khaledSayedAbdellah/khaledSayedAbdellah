@@ -1,9 +1,8 @@
 
 # Main Pro
 
-<div>
 <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/22/b5/e022b5d4-8114-c21c-d48e-5f4758d56526/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="100" height="100"/>
-</div>
+
 
 MainPro application is the first and best application that brings together all maintenance service providers under one roof.
 

@@ -5,15 +5,13 @@
 <img src="https://lh3.googleusercontent.com/J7O37ylnhGvo6M70_TLuRPhmAqMxy62BcEGQk_Akk9u8nfUT8DUmzQgD0kZGr9AGWrwY" width="500" height="200"/>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, quam a vehicula accumsan, odio nisl pulvinar eros, a malesuada tortor nibh vitae turpis. Nullam dictum a nulla ut mattis. Sed at commodo est, quis faucibus leo. Fusce a risus nec mauris accumsan vestibulum.
+MainPro application is the first and best application that brings together all maintenance service providers under one roof.
 
-<!-- ### Features
+We serve you in the maintenance sector in three areas
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform -->
-
+1- Car maintenance
+2- Home maintenance
+3- Maintenance of electronic devices
 
 <div id="badges">
   <a href= "https://www.w3schools.com/tags/tag_a.asp">

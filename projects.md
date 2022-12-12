@@ -9,9 +9,9 @@ MainPro application is the first and best application that brings together all m
 
 We serve you in the maintenance sector in three areas
 
-- 1 Car maintenance
-- 2 Home maintenance
-- 3 Maintenance of electronic devices
+- Car maintenance
+- Home maintenance
+- Maintenance of electronic devices
 
 <div id="badges">
   <a href= "https://www.w3schools.com/tags/tag_a.asp">

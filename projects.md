@@ -2,7 +2,7 @@
 # Main Pro
 
 <div>
-<img src="https://play-lh.googleusercontent.com/cAkzPV5YXKduFQXNeIV45t4ypLhFfreZLkKQ3RGb95L7eS6wNxrcsoIe2ztswmVRlHI=w480-h960-rw" width="500" height="100"/>
+<img src="https://lh3.googleusercontent.com/J7O37ylnhGvo6M70_TLuRPhmAqMxy62BcEGQk_Akk9u8nfUT8DUmzQgD0kZGr9AGWrwY" width="500" height="100"/>
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sollicitudin, quam a vehicula accumsan, odio nisl pulvinar eros, a malesuada tortor nibh vitae turpis. Nullam dictum a nulla ut mattis. Sed at commodo est, quis faucibus leo. Fusce a risus nec mauris accumsan vestibulum.

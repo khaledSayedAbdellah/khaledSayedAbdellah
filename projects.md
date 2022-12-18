@@ -90,7 +90,8 @@ With the Ifamous application, you can communicate with celebrities directly, pro
 <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/26/cc/6b26ccf0-99a5-1817-f8d0-da7899631efa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-With the Ifamous application, you can communicate with celebrities directly, provide your services on the platform, and also communicate with your followers.
+An attendance app for employees and managers, managing everything from one place
+Through it, you can register attendance and leave, submit a request for leave or permission, or make a photo report
 </p>
 
 <div id="badges">

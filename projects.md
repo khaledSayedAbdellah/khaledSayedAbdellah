@@ -143,9 +143,7 @@ Through it, you can register attendance and leave, submit a request for leave or
 <img src="https://efatoratec.com/wp-content/uploads/2022/11/NEW-01.png" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-An attendance app for employees and managers, managing everything from one place
-Through it, you can register attendance and leave, submit a request for leave or permission, or make a photo report,
- scanning business / personal cards, reports for each employee,, etc
+Tec Badia provides a completely secure system for issuing electronic invoices within the advantages of the cloud program and without additional fees. This system is authorized by the Zakat, Tax and Customs Authority. It also allows you to save, process, analyze, share and transfer invoices in the fastest and easiest innovative way. 
 </p>
 
 <div id="badges">

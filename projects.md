@@ -140,7 +140,7 @@ Through it, you can register attendance and leave, submit a request for leave or
  
 # E Fatora Tec
 
-<img src="https://efatoratec.com/wp-content/uploads/2022/11/logo-e-f-white-and-color-21.png" width="100" height="100"/>
+<img src="https://efatoratec.com/wp-content/uploads/2022/11/NEW-01.png" width="100" height="100"/>
 
 <p style="display: inline-block"> 
 An attendance app for employees and managers, managing everything from one place

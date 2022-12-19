@@ -258,8 +258,9 @@ A special application that brings together the owner of an economic project idea
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-in sure app to video call with consultants in many fields
-
+It is an application for consulting in various disciplines.
+In sure, we offer the possibility of requesting advice on many offers at the same moment.
+You can request consultations in various specializations.
 </p>
 
 <div id="badges">

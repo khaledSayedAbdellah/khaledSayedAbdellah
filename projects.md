@@ -170,7 +170,8 @@ Tec Badia provides a completely secure system for issuing electronic invoices wi
 <img src="https://cdn.freebiesupply.com/logos/large/2x/style-26-logo-png-transparent.png" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-Tec Badia provides a completely secure system for issuing electronic invoices within the advantages of the cloud program and without additional fees. This system is authorized by the Zakat, Tax and Customs Authority. It also allows you to save, process, analyze, share and transfer invoices in the fastest and easiest innovative way. 
+styles creator app is a demo app to create your own styles and save or publish them.
+you have to option to start creating a freely style or swapping between items.
 </p>
 
 <div id="badges">

@@ -232,7 +232,7 @@ To discuss the most important technological developments in our lives and soluti
  
 # Afkar
 
-<img src="https://play-lh.googleusercontent.com/4dUFaV4iJEStr_hSpZvOBvipljJ3bAbkXC4tCw4RbZYlcqfdUG2WV97HZYsR4ME9K7la=w480-h960-rw" width="100" height="100"/>
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
 With the Ifamous application, you can communicate with celebrities directly, provide your services on the platform, and also communicate with your followers.
@@ -242,7 +242,7 @@ With the Ifamous application, you can communicate with celebrities directly, pro
 <a href= "https://play.google.com/store/apps/details?id=com.afkar">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
-<a href= "https://apps.apple.com/us/app/ifamous/id1644139054">
+<a href= "https://apps.apple.com/eg/app/afkar/id1525581075">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>

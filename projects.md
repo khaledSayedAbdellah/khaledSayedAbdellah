@@ -4,10 +4,8 @@
 <div><a href="#mwardi" >Mwardi</a> </div>
 <div><a href="#real_come" >Real Come</a> </div>
 <div><a href="#e_fatora" >E Fatora Tec</a> </div>
-
 <br></br>
 <br></br>
-
 <div><a href="#styles" >Styles Creator</a> </div>
 
 

@@ -258,7 +258,8 @@ A special application that brings together the owner of an economic project idea
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-A special application that brings together the owner of an economic project idea (whether the project is existing or still an idea) and the investor who is able to finance the idea for its success.
+in sure app to video call with consultants in many fields
+
 </p>
 
 <div id="badges">
@@ -279,7 +280,7 @@ A special application that brings together the owner of an economic project idea
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d8/81/34d88115-7d1b-fc08-4779-ff5fd96b3306/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-A special application that brings together the owner of an economic project idea (whether the project is existing or still an idea) and the investor who is able to finance the idea for its success.
+Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you need it, wherever you go. Moving to work? Airport Transfer? Family visits? Forget about parking, stress of traffic, car rental, or waiting for a taxi. Simply book go taxi atmosphere and your trip there will be in minutes.
 </p>
 
 <div id="badges">

@@ -200,3 +200,23 @@ Al-gedawy Group for legal, commercial and advisory procedures and the establishm
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
+
+
+
+<p id="infopanies"></p>
+
+# Infopanies
+
+<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="100" height="100"/>
+<p style="display: inline-block"> 
+infopanies is a social media app for businesses and individuals
+To discuss the most important technological developments in our lives and solutions to the most important obstacles in the field of technology
+</p>
+
+<div id="badges">
+<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->

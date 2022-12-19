@@ -4,6 +4,9 @@
 <div><a href="#mwardi" >Mwardi</a> </div>
 <div><a href="#real_come" >Real Come</a> </div>
 <div><a href="#e_fatora" >E Fatora Tec</a> </div>
+-------------------------------------------------------
+
+<div><a href="#styles" >Styles Creator</a> </div>
 
 
 
@@ -152,6 +155,23 @@ Tec Badia provides a completely secure system for issuing electronic invoices wi
 </a>
 <a href= "http://www.fatora-tec.com/">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= --> =============================================================================================================
+\ <p id="styles"></p>
+
+# Styles Creator
+
+<img src="https://cdn.freebiesupply.com/logos/large/2x/style-26-logo-png-transparent.png" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+Tec Badia provides a completely secure system for issuing electronic invoices within the advantages of the cloud program and without additional fees. This system is authorized by the Zakat, Tax and Customs Authority. It also allows you to save, process, analyze, share and transfer invoices in the fastest and easiest innovative way. 
+</p>
+
+<div id="badges">
+<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>
 <!-- ============================================================================================================= -->

@@ -6,6 +6,7 @@
 <div><a href="#e_fatora" >E Fatora Tec</a> </div>
 <br></br>
 <div><a href="#styles" >Styles Creator</a> </div>
+<div><a href="#gedawy" >Al Gedawy Group</a> </div>
 
 
 
@@ -176,6 +177,26 @@ you have to option to start creating a freely style or swapping between items.
 
 <div id="badges">
 <a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+
+<p id="gedawy"></p>
+
+# Al Gedawy Group
+
+<img src="http://mainsite.gedawigroup.com/images/logo.png" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+styles creator app is a demo app to create your own styles and save or publish them.
+you have to option to start creating a freely style or swapping between items.
+</p>
+
+<div id="badges">
+<a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/gedawy_group.apk">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>

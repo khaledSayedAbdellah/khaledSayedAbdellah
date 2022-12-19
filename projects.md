@@ -11,6 +11,7 @@
 <br></br>
 <div><a href="#afkar" >Afkar</a> </div>
 <div><a href="#insure" >InSure</a> </div>
+<div><a href="#insure" >InSure</a> </div>
 
 
 

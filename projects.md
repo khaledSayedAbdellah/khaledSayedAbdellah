@@ -12,7 +12,8 @@
 <div><a href="#afkar" >Afkar</a> </div>
 <div><a href="#insure" >InSure</a> </div>
 <div><a href="#go_taxi" >Go Taxi</a> </div>
-
+<div><a href="#go_talabat" >Go Talabat</a> </div>
+<div><a href="#go_talabat" >Go Talabat</a> </div>
 
 
 

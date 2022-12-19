@@ -7,6 +7,7 @@
 <br></br>
 <div><a href="#styles" >Styles Creator</a> </div>
 <div><a href="#gedawy" >Al Gedawy Group</a> </div>
+<div><a href="#infopanies" >Infopanies</a> </div>
 
 
 
@@ -207,7 +208,7 @@ Al-gedawy Group for legal, commercial and advisory procedures and the establishm
 
 # Infopanies
 
-<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="100" height="100"/>
+<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/thumb_clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="100" height="100"/>
 <p style="display: inline-block"> 
 infopanies is a social media app for businesses and individuals
 To discuss the most important technological developments in our lives and solutions to the most important obstacles in the field of technology

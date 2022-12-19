@@ -189,10 +189,8 @@ you have to option to start creating a freely style or swapping between items.
 # Al Gedawy Group
 
 <img src="http://mainsite.gedawigroup.com/images/logo.png" width="100" height="100"/>
-
 <p style="display: inline-block"> 
-styles creator app is a demo app to create your own styles and save or publish them.
-you have to option to start creating a freely style or swapping between items.
+Al-gedawy Group for legal, commercial and advisory procedures and the establishment of companies
 </p>
 
 <div id="badges">

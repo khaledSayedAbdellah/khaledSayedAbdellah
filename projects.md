@@ -11,7 +11,7 @@
 <br></br>
 <div><a href="#afkar" >Afkar</a> </div>
 <div><a href="#insure" >InSure</a> </div>
-<div><a href="#insure" >InSure</a> </div>
+<div><a href="#go_taxi" >Go Taxi</a> </div>
 
 
 
@@ -266,6 +266,27 @@ A special application that brings together the owner of an economic project idea
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 <a href= "https://apps.apple.com/eg/app/insure-%D8%A7%D9%86%D8%B4%D9%88%D8%B1/id1553904022">
+ <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+<p id="go_taxi"></p>
+ 
+# Go Taxi
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d8/81/34d88115-7d1b-fc08-4779-ff5fd96b3306/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+A special application that brings together the owner of an economic project idea (whether the project is existing or still an idea) and the investor who is able to finance the idea for its success.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=com.gotaxi.user">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+<a href= "https://apps.apple.com/eg/app/go-taxi-%D8%AC%D9%88-%D8%AA%D8%A7%D9%83%D8%B3%D9%8A/id1287483414">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>

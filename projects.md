@@ -8,7 +8,8 @@
 <div><a href="#styles" >Styles Creator</a> </div>
 <div><a href="#gedawy" >Al Gedawy Group</a> </div>
 <div><a href="#infopanies" >Infopanies</a> </div>
-
+<br></br>
+<div><a href="#afkar" >Afkar</a> </div>
 
 
 
@@ -217,6 +218,32 @@ To discuss the most important technological developments in our lives and soluti
 <div id="badges">
 <a href= "https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<p id="afkar"></p>
+ 
+# Afkar
+
+<img src="https://play-lh.googleusercontent.com/4dUFaV4iJEStr_hSpZvOBvipljJ3bAbkXC4tCw4RbZYlcqfdUG2WV97HZYsR4ME9K7la=w480-h960-rw" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+With the Ifamous application, you can communicate with celebrities directly, provide your services on the platform, and also communicate with your followers.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=com.afkar">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+<a href= "https://apps.apple.com/us/app/ifamous/id1644139054">
+ <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>
 <!-- ============================================================================================================= -->

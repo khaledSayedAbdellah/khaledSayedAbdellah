@@ -235,7 +235,7 @@ To discuss the most important technological developments in our lives and soluti
 <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-With the Ifamous application, you can communicate with celebrities directly, provide your services on the platform, and also communicate with your followers.
+A special application that brings together the owner of an economic project idea (whether the project is existing or still an idea) and the investor who is able to finance the idea for its success.
 </p>
 
 <div id="badges">

@@ -10,6 +10,7 @@
 <div><a href="#infopanies" >Infopanies</a> </div>
 <br></br>
 <div><a href="#afkar" >Afkar</a> </div>
+<div><a href="#insure" >InSure</a> </div>
 
 
 
@@ -243,6 +244,27 @@ A special application that brings together the owner of an economic project idea
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 <a href= "https://apps.apple.com/eg/app/afkar/id1525581075">
+ <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+<p id="insure"></p>
+ 
+# InSure
+
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+A special application that brings together the owner of an economic project idea (whether the project is existing or still an idea) and the investor who is able to finance the idea for its success.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=jader.sure">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+<a href= "https://apps.apple.com/eg/app/insure-%D8%A7%D9%86%D8%B4%D9%88%D8%B1/id1553904022">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>

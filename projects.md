@@ -301,7 +301,9 @@ Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you n
 <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/89/28/b0/8928b091-e134-1492-cade-65dc10b0b6c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you need it, wherever you go. Moving to work? Airport Transfer? Family visits? Forget about parking, stress of traffic, car rental, or waiting for a taxi. Simply book go taxi atmosphere and your trip there will be in minutes.
+go Talabat app for food orders from restaurants 
+just choose what you want and wait for the delivery
+
 </p>
 
 <div id="badges">

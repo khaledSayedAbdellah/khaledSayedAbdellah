@@ -348,7 +348,8 @@ A membership card that contributes to providing the person’s daily needs in ad
 <img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="100" height="100"/>
 
 <p style="display: inline-block"> 
-A membership card that contributes to providing the person’s daily needs in addition to the numerous discounts in different places and through which you can provide your monthly budget in solidarity with the vision of the Kingdom of Saudi Arabia.
+The application of Al-Yassirah restaurants, in the interest of us, to serve our valued customers ...
+We offer a varied menu of Turkish cuisine, a wide variety of main meals from the various Ottoman tomato and grills, with their charming taste, kofta and kebab on the Turkish way.
 </p>
 
 <div id="badges">

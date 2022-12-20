@@ -13,6 +13,8 @@
 <div><a href="#insure" >InSure</a> </div>
 <div><a href="#go_taxi" >Go Taxi</a> </div>
 <div><a href="#go_talabat" >Go Talabat</a> </div>
+<br></br>
+<div><a href="#tamayouz" >Altamayuz</a> </div>
 
 
 
@@ -165,7 +167,6 @@ Tec Badia provides a completely secure system for issuing electronic invoices wi
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
 <p id="styles"></p>
 
@@ -224,7 +225,6 @@ To discuss the most important technological developments in our lives and soluti
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
-<br></br>
 <br></br>
 <br></br>
 <br></br>
@@ -312,6 +312,28 @@ just choose what you want and wait for the delivery
 </a>
 <a href= "https://apps.apple.com/eg/app/go-talabat/id1587119217">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+<br></br>
+<br></br>
+<br></br>
+
+
+<p id="tamayouz"></p>
+ 
+# Altamayuz
+
+<img src="https://play-lh.googleusercontent.com/OeCmWslHEpgr8cbo3ZYwsWQjILr9IJSJV3gYjXHYU-cIxhdzyqqeTHydTGaRCRGRBg=w480-h960-rw" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+A membership card that contributes to providing the person’s daily needs in addition to the numerous discounts in different places and through which you can provide your monthly budget in solidarity with the vision of the Kingdom of Saudi Arabia.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=tamayouzapp.tamayouz">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>
 <!-- ============================================================================================================= -->

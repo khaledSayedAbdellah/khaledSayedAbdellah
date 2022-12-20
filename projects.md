@@ -356,6 +356,10 @@ We offer a varied menu of Turkish cuisine, a wide variety of main meals from the
 <a href= "https://play.google.com/store/apps/details?id=alyassirah.company.com">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
+ <a href= "https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854">
+ <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
+</a>
 </div>
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
+

@@ -15,6 +15,8 @@
 <div><a href="#go_talabat" >Go Talabat</a> </div>
 <br></br>
 <div><a href="#tamayouz" >Altamayuz</a> </div>
+<div><a href="#alyassirah" >alyassirah</a> </div>
+
 
 
 
@@ -333,6 +335,24 @@ A membership card that contributes to providing the person’s daily needs in ad
 
 <div id="badges">
 <a href= "https://play.google.com/store/apps/details?id=tamayouzapp.tamayouz">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->
+
+<p id="alyassirah"></p>
+ 
+# Alyassirah
+
+<img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+A membership card that contributes to providing the person’s daily needs in addition to the numerous discounts in different places and through which you can provide your monthly budget in solidarity with the vision of the Kingdom of Saudi Arabia.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=alyassirah.company.com">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
 </div>

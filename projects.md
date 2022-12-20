@@ -16,6 +16,7 @@
 <br></br>
 <div><a href="#tamayouz" >Altamayuz</a> </div>
 <div><a href="#alyassirah" >alyassirah</a> </div>
+<div><a href="#maojod" >Maojod</a> </div>
 
 
 
@@ -363,3 +364,20 @@ We offer a varied menu of Turkish cuisine, a wide variety of main meals from the
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= -->
 
+<p id="maojod"></p>
+ 
+# Maojod
+
+<img src="https://play-lh.googleusercontent.com/t6Xd_BF-Smh7MxUGgVV49fpZP-Cni_7cqkTHNurXOwVaEdcMgyw3UAtAj2AGhed9YjY=w480-h960-rw" width="100" height="100"/>
+
+<p style="display: inline-block"> 
+A wide variety of products from the best brands in all categories such as electronics, fashion, health and beauty products, perfumes, groceries, baby products, and household items. maojod is your first destination to shop for everything you want.
+</p>
+
+<div id="badges">
+<a href= "https://play.google.com/store/apps/details?id=com.maojod.maojod_app">
+ <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</a>
+</div>
+<!-- ============================================================================================================= -->
+<!-- ============================================================================================================= -->

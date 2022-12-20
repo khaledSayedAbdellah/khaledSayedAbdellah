@@ -298,7 +298,7 @@ Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you n
  
 # Go Talabat
 
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d8/81/34d88115-7d1b-fc08-4779-ff5fd96b3306/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="100" height="100"/>
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/89/28/b0/8928b091-e134-1492-cade-65dc10b0b6c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="100" height="100"/>
 
 <p style="display: inline-block"> 
 Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you need it, wherever you go. Moving to work? Airport Transfer? Family visits? Forget about parking, stress of traffic, car rental, or waiting for a taxi. Simply book go taxi atmosphere and your trip there will be in minutes.
@@ -308,7 +308,7 @@ Go Taxi is the # 1 app for a safe, reliable and affordable flight whenever you n
 <a href= "https://play.google.com/store/apps/details?id=com.gotaxi.user">
  <img src="https://img.shields.io/badge/android-grey?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </a>
-<a href= "https://apps.apple.com/eg/app/go-taxi-%D8%AC%D9%88-%D8%AA%D8%A7%D9%83%D8%B3%D9%8A/id1287483414">
+<a href= "https://apps.apple.com/eg/app/go-talabat/id1587119217">
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>

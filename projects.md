@@ -3,7 +3,7 @@
 <div><a href="#i_famous" >I Famous</a> </div>
 <div><a href="#mwardi" >Mwardi</a> </div>
 <div><a href="#real_come" >Real Come</a> </div>
-<div><a href="#e_fatora" >E Fatora Tec</a> </div>
+<!-- <div><a href="#e_fatora" >E Fatora Tec</a> </div> -->
 <br></br>
 <div><a href="#styles" >Styles Creator</a> </div>
 <div><a href="#gedawy" >Al Gedawy Group</a> </div>
@@ -145,7 +145,7 @@ Through it, you can register attendance and leave, submit a request for leave or
 <!-- ============================================================================================================= -->
 
 
-
+<!-- ============================================================================================================= 
 
  <p id="e_fatora"></p>
  
@@ -165,6 +165,9 @@ Tec Badia provides a completely secure system for issuing electronic invoices wi
  <img src="https://img.shields.io/badge/iphone-blue?style=for-the-badge&logo=apple&logoColor=white" alt="IOS"/>
 </a>
 </div>
+
+..>
+
 <!-- ============================================================================================================= -->
 <!-- ============================================================================================================= --> 
 <br></br>
